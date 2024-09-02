@@ -12,6 +12,7 @@ on:
       - 'v*'
 
 
+
 env:
   IMAGE_NAME: "odh-model-controller"
   REPO_NAME: "nishan_acharya123"
